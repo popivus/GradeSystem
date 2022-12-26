@@ -1,0 +1,72 @@
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe.config
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.pdb
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csprojAssemblyReference.cache
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Form1.resources
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Properties.Resources.resources
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.GenerateResource.cache
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.CoreCompileInputs.cache
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.exe
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.pdb
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormShowRating.resources
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormAdd.resources
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormAddDoctor.resources
+C:\Users\Tolik\source\repos\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormEditDoctor.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe.config
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.pdb
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Form1.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormAdd.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormAddDoctor.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormEditDoctor.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormShowRating.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Properties.Resources.resources
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.exe
+C:\Users\hp\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.pdb
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe.config
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.pdb
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csprojAssemblyReference.cache
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Form1.resources
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormAdd.resources
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormAddDoctor.resources
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormEditDoctor.resources
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.FormShowRating.resources
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Properties.Resources.resources
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.GenerateResource.cache
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.CoreCompileInputs.cache
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.exe
+C:\Users\Tolik\Downloads\AlisavetRating\AlisavetRating\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.pdb
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe.config
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.pdb
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csprojAssemblyReference.cache
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Form1.resources
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Properties.Resources.resources
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.GenerateResource.cache
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.CoreCompileInputs.cache
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.exe
+D:\alexb\Documents\AlisavetRating (2)\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.pdb
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe.config
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.pdb
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Form1.resources
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Properties.Resources.resources
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.exe
+C:\Users\user\Desktop\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.pdb
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe.config
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.exe
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\bin\Debug\AlisavetRating.pdb
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Form1.resources
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.Properties.Resources.resources
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.exe
+C:\Users\user\Desktop\Работа\Ветеринарка\Проекты\AlisavetRating\AlisavetRating\obj\Debug\AlisavetRating.pdb
